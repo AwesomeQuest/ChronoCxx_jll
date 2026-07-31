@@ -1,0 +1,11 @@
+[[ChronoCxx]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c0c88250224737a76135008bc2fe73308205dd8e"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ChronoCxx.download]]
+    sha256 = "474801ed3b2e9745431c10159cdfd8d7d2d3767652f190f7b6582d67296df401"
+    url = "https://github.com/AwesomeQuest/ChronoCxx_jll/releases/download/ChronoCxx-v0.1.0+0/ChronoCxx.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
