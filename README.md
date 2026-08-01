@@ -17,6 +17,8 @@ The tarballs for `ChronoCxx_jll.jl` have been built from these sources:
 `ChronoCxx_jll.jl` is available for the following platforms:
 
 * `Platform("x86_64", "linux"; julia_version = "1.10.0", libc = "glibc", cxxstring_abi = "cxx11")` (`x86_64-linux-gnu-cxx11-julia_version+1.10.0`)
+* `Platform("x86_64", "linux"; julia_version = "1.11.1", libc = "glibc", cxxstring_abi = "cxx11")` (`x86_64-linux-gnu-cxx11-julia_version+1.11.1`)
+* `Platform("x86_64", "linux"; julia_version = "1.12.0", libc = "glibc", cxxstring_abi = "cxx11")` (`x86_64-linux-gnu-cxx11-julia_version+1.12.0`)
 
 ## Dependencies
 
