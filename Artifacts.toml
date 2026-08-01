@@ -1,33 +1,33 @@
 [[ChronoCxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3eb4fe300c8c308712a120217a58a14b4178950f"
+git-tree-sha1 = "43ebe1a1918bd73033941d3a5ba46cc9240a4de3"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[ChronoCxx.download]]
-    sha256 = "56370207fc740cbe20f8e2524234690b4bb4765432cf7c58b52f39a1eec44a86"
+    sha256 = "ecc8d6f4bf78764196826a170176c628e80ca395e9a0bd1ea9edb6e237c76be1"
     url = "https://github.com/AwesomeQuest/ChronoCxx_jll/releases/download/ChronoCxx-v0.1.0+0/ChronoCxx.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[ChronoCxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "49238f2868a905639ac4cc565abb66095dad2814"
+git-tree-sha1 = "2333df63552dfdea310357f839f3b3799cc0e9de"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[ChronoCxx.download]]
-    sha256 = "189b813f648725fe1c9875cb47944333a3def19e0c2d43066a2b81e7f155d5bf"
+    sha256 = "4eb33a66ea4466efcaa7a017f6512ae057e040fce136fd66f0de61da4e9e6f81"
     url = "https://github.com/AwesomeQuest/ChronoCxx_jll/releases/download/ChronoCxx-v0.1.0+0/ChronoCxx.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[ChronoCxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2ba79b4531182b4b6dc1980eaec6a2d1941dd118"
+git-tree-sha1 = "265dcac8ac292fb763e8f9a71d7a78553c62bd08"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[ChronoCxx.download]]
-    sha256 = "9ef894a1bb2c5f41f74f748fcb97bf11de43fa7d02b7736de05d13aca0baddac"
+    sha256 = "477ca958a526732ef3e18b4efbece5774555fdf384d65fc9307098ea6c36bf41"
     url = "https://github.com/AwesomeQuest/ChronoCxx_jll/releases/download/ChronoCxx-v0.1.0+0/ChronoCxx.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
